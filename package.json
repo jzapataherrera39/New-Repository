@@ -1,0 +1,20 @@
+{
+  "name": "New-Repository",
+  "version": "1.0.0",
+  "description": ">Proyecto Node.js nuevo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzapataherrera39/New-Repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzapataherrera39/New-Repository/issues"
+  },
+  "homepage": "https://github.com/jzapataherrera39/New-Repository#readme"
+}
